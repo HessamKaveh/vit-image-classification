@@ -26,7 +26,3 @@ python src/train.py
 python src/evaluate.py
 ```
 
-## Results
-See `results/training_curves.png` and `results/confusion_matrix.png`
-
-
